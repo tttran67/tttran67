@@ -1,21 +1,3 @@
-<!--
-### Hi there 👋
--->
-
-<!--
-**tttran67/tttran67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Carol</h1>
 <h3 align="center">An undergraduate student learning CV currently.</h3>
 
@@ -25,9 +7,15 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 🤝 I’m looking for help with **CV learning**
+- 👯 I’m looking to collaborate on **Computer Vision learning & paper writing**
+
+- 🤝 I’m looking for help with **Computer Vision learning & paper writing**
+
+- 📝 I regularly write articles on [https://tttran67.github.io/](https://tttran67.github.io/)
 
 - 📫 How to reach me **805926731@qq.com**
+
+- ⚡ Fun fact **Reach me to hear a random() joke**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
