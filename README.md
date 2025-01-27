@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carol</h1>
+<h1 align="center">Hi 👋, I'm yup</h1>
 <h3 align="center">An undergraduate student learning CV currently.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carol&label=Profile%20views&color=0e75b6&style=flat" alt="carol" /> </p>
